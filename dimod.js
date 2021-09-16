@@ -24,6 +24,6 @@ dimod.on("ready", () => {
     var join = dimod.channels.get(""); /// id voice
     if (join) join.join();
   });
-//////////////// tokn lera da bne 
+////////////////   TOKEN LERA DABNE 
 dimod.login("");
 
